@@ -17,7 +17,6 @@ This repository demonstrates how organizations can automatically detect and reme
 For the full project walkthrough and detailed steps, see  
 ➡️ [Read the full guide on Dev.to](https://dev.to/ola_a_da305c9d390ba68b3c5/automated-s3-remediation-with-aws-config-systems-manager-2h7h)
 
-Block Public Access is re‑enabled within minutes of any change, with a full history of detection and remediation in AWS Config and CloudWatch, applying automatically to all existing and future S3 buckets.
 
 ## Conclusion
 Using Automated S3 Remediation to Enforce Block Public Access is a proactive approach to maintaining the security of your Amazon S3 buckets. By automating the detection and remediation of non-compliant configurations, you can prevent data exposure and ensure compliance with security best practices. You can take advantage of AWS Config and Systems Manager Automation to help your cloud infrastructure security.
